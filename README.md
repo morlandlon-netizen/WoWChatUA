@@ -3,7 +3,7 @@
 Real-time Ukrainian chat translation overlay + WoW addon for Windows 10/11.
 
 ## Download & Setup
-1. Install the **WoWChatUA** addon from **[CurseForge]((https://www.curseforge.com/wow/addons/wowchatua))** (recommended via the CurseForge App).
+1. Install the **WoWChatUA** addon from **[CurseForge](https://www.curseforge.com/wow/addons/wowchatua)** (recommended via the CurseForge App).
 2. Download **`WoWChatUA.exe`** from **[GitHub Releases](https://github.com/morlandlon-netizen/WoWChatUA/releases/tag/v1.0.0)**.
 3. Start World of Warcraft and run `WoWChatUA.exe`.
 4. Drag and resize the overlay over your `General` chat box, then press **`F9`** to lock it.
